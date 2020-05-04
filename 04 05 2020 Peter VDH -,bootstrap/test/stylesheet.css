@@ -1,0 +1,12 @@
+.container {
+  background-image: url(./img/unnamed.jpg);
+}
+
+.container > img {
+  height: 50px;
+}
+
+/*
+.conatiner > img {
+    height: 50px;
+  }*/
