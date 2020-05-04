@@ -1,0 +1,17 @@
+.class_header {
+  background-color: blue;
+  color: white;
+}
+
+.hero {
+  background-color: white;
+}
+
+#logo {
+  width: 100px;
+  height: Auto;
+}
+
+.invulformulier {
+  background-color: blue;
+}
